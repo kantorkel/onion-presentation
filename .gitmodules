@@ -1,0 +1,3 @@
+[submodule "onion-tex"]
+	path = onion-tex
+	url = https://github.com/ahf/onion-tex

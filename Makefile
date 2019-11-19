@@ -1,6 +1,6 @@
 # Example files.
-EXAMPLE_TEX_FILE   = 2018-08-31-ccchh-meetup.tex
-EXAMPLE_PDF_FILE   = 2018-08-31-ccchh-meetup.pdf
+EXAMPLE_TEX_FILE   = 2019-11-12-fbi-kbs.tex
+EXAMPLE_PDF_FILE   = 2019-11-12-fbi-kbs.pdf
 EXAMPLE_OUTPUT_DIR = ./output
 
 export TEXINPUTS:=$(shell pwd)/onion-tex/src:${TEXINPUTS}
